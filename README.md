@@ -13,7 +13,7 @@ on the device.
    
 ### Executing
 
-####  1.  Without UI
+####  1.  Without PyQt support
 In order to succsefully compile the code, you need to provide sudo priviledges.
 
 Run the following command on shell :
@@ -23,7 +23,7 @@ $ sudo python sniffer-txt.py
 ```
 This runs the code without PyQt support
 
-####  1.  With  UI
+####  1.  With PyQt support
 
 In order to run this code, make sure you have PyQt installed!
 
