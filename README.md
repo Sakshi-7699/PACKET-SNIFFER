@@ -23,7 +23,7 @@ $ sudo python sniffer-txt.py
 ```
 This runs the code without PyQt support
 
-####  1.  With PyQt support
+####  2.  With PyQt support
 
 In order to run this code, make sure you have PyQt installed!
 
