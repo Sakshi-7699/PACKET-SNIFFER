@@ -34,7 +34,7 @@ $ sudo python packet-sniffer.py
 ```
 This runs the code without PyQt support
 
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
+
 
 
 
